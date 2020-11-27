@@ -1,0 +1,31 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+body
+{
+    background-image:url('../images/l.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+
+}
+.nav-menu
+{       
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-menu li
+{
+    display: inline-block;
+}
+.nav-menu a
+{
+    color: turquoise;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 5px 20px;
+}

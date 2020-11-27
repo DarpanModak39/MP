@@ -1,0 +1,25 @@
+.copt li {
+    position:relative;
+    top: 200px;
+    left: 40%;
+    display:block;
+    width: 600px;
+    height: 30px;
+    text-align: left;
+    padding: 15px 30px;
+    background: transparent;
+    letter-spacing: 2px;
+    color:#255784;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.copt li a
+{
+    color:#255784;
+    text-decoration: none;
+    background: #2196f3;
+    text-align: center;
+    padding: 15px 30px;
+
+}
+
